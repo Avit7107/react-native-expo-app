@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1f47a63-4e46-41cd-9587-e275315bba98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kp6WJMalkwkIraWz0byQ9q0YRP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1f47a63-4e46-41cd-9587-e275315bba98" name="Default Changelist" comment="" />
+      <created>1606385215931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606385215931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="112" y="144" width="1146" height="487" key="AVDManager" timestamp="1606391469487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="112" y="144" width="1146" height="487" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1606391469487" />
+    <state x="186" y="17" key="SettingsEditor" timestamp="1606385521003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606385521003" />
+    <state x="341" y="176" key="run.anything.popup" timestamp="1606385518709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="176" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606385518709" />
+    <state x="348" y="49" key="search.everywhere.popup" timestamp="1606385254681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606385254681" />
+  </component>
+</project>
