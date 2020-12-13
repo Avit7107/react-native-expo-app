@@ -9,7 +9,7 @@ export default function item({ product, navigation }) {
     const [loading, setLoading] = useState(false);
     const shareButton = () => {
         return loading ? <ActivityIndicator style={styles.loading} size="large" color="green" /> :
-            <GButton itle="Share" clickFun={async () => {
+            <GButton title="Share" clickFun={async () => {
                 setLoading(true);
                 await share(product.image, product.title);
                 setLoading(false);
